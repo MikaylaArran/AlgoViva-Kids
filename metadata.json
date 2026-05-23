@@ -1,0 +1,6 @@
+{
+  "name": "AI Academy",
+  "description": "Interactive games and simple visual lessons teaching kids about Artificial Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
